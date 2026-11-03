@@ -1,4 +1,4 @@
-# neuropalatte
+# Neuropalatte
 # Neuro Artify – AI-Powered Image Processing Platform
 
 ## Project Overview
